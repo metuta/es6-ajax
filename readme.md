@@ -53,7 +53,7 @@ http.put('/ajax/1', {hello: 'hello'})
     console.log(error);
   });
 ```
-Or for the ajax function:
+Or with the ajax function:
 ```JavaScript
 ajax('GET', url);
 ajax('POST', url, data);

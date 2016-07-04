@@ -1,4 +1,4 @@
-import {http} from '../index.js';
+import {http} from '../es6-ajax.js';
 
 http.get('/ajax')
   .then(function(data){
