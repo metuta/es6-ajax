@@ -1,4 +1,6 @@
 # ES6 Ajax
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/thiamsantos/es6-ajax.svg)](https://greenkeeper.io/)
 A quick implementation of ajax requests with es6 syntax.
 
 ## Importing
